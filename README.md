@@ -1,18 +1,19 @@
-Weather API app:
+# Weather API App
 
 A simple and interactive weather application that fetches real-time meteorological data using an external weather API.
 
-Features
- Search current weather by city name.
- Displays temperature, humidity, wind speed, and weather conditions.
+## Features
 
- Tech Stack
- **Frontend:** HTML, CSS, JavaScript (or Streamlit / Flask etc.)
- **Backend:** Python / Node.js
- **API:** [OpenWeatherMap / WeatherAPI]
+- Search current weather by city name.
+- Displays temperature, humidity, wind speed, and weather conditions.
 
- Setup & Installation
+## Tech Stack
 
-1. Clone the repository:
-bash
+- **Backend:** Python (OpenWeatherMap API)
+
+## Setup & Installation
+
+1. Clone the repository and navigate into it:
+   ```bash
    git clone [https://github.com/sumeru-cmd/mini-project.git](https://github.com/sumeru-cmd/mini-project.git)
+   cd mini-project
